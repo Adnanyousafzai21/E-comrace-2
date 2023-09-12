@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "allowJs": true, // Allow JavaScript files to be included
+      "noEmit": true,  // Do not emit TypeScript output
+      "jsx": "react",  // Specify JSX as "react"
+      "module": "commonjs", // Specify module type as "commonjs"
+      "target": "ES6",  // Specify target ES version
+      "esModuleInterop": true
+    },
+    "include": [
+      "src/**/*.ts",
+      "src/**/*.d.ts",
+      "src/**/*.tsx",
+      "src/**/*.js",
+      "src/**/*.jsx"
+    ]
+  }
+  
