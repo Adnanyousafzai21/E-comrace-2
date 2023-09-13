@@ -56,6 +56,7 @@ const Contact = () => {
         </div>
       </div>
     </div>
-  </div>)
+  </div>
+  )
 };
 export default Contact;
